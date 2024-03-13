@@ -1,0 +1,134 @@
+body {
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+}
+
+.header {
+    padding-top: 1px;
+    background-color: black;
+    display: flex;
+    color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 13vh;
+}
+
+.logo {
+    padding-left: 30px;
+}
+
+.nav {
+    display: inline-block;
+    padding-left: 40px;
+    padding-top: 30px;
+}
+
+.sea {
+    padding-top: 30px;
+    padding-left: 10px;
+}
+
+.search {
+    padding-left: 450px;
+
+}
+
+.main {
+    display: flex;
+    width: 100%;
+}
+
+.body {
+    background-color: black;
+    color: azure;
+    width: 350px;
+    height: 80vh;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 60px;
+    margin-left: 40px;
+    display: flex;
+}
+.heading{
+    margin-top: 30px;
+}
+.one {
+    padding-top: 60px;
+    padding-left: 110px;
+    display: block;
+}
+.two{
+    display: block;
+}
+.foot{
+    width: 100%;
+    height: 90vh;
+    margin-left: 150px;
+    color: black;
+    display: inherit;
+    display: block;
+}
+.img{
+    margin-left: 500px;
+}
+.two{
+    background-color: aliceblue;
+}
+.three{
+    background-color: black;
+    color: bisque;
+    height: 5vh;
+    padding-top: 15px;
+    padding-left: 30px;
+    width: 250px;
+    margin-left: 30px;
+}
+.icon{
+    background-color: red;
+}
+.mul{
+    color: red;
+}
+.bor{
+    border-radius: 12px 10px 10px rgb(15, 14, 14)y;
+    height: 25vh;
+    width: 350px;
+}
+.seve{
+    padding-top: 20px;
+    height: 10vh;
+    background-color: black;
+    color: white;
+    
+}
+.hh1{
+    padding-left: 40px;
+}
+.h1{
+    padding-left: 25px;
+}
+.four{
+    margin-top: 5px;
+    padding-top: 5px;
+    width: 440px;
+    padding-left: 25px;
+    height: 12vh;
+    background-color: white;
+}
+.five{
+    background-color: black;
+    color: beige;
+    width: 440px;
+    padding-left: 30px;
+    
+    height: 12vh;
+    padding-top: 1px;
+}
+.bor{
+    box-shadow: 1px 1px 1px grey;
+}
+.six{
+    margin-top: 12px;
+    width: 440px;
+    padding-left: 25px;
+    border: 5px solid black;
+}
